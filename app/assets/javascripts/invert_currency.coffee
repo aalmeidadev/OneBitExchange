@@ -1,6 +1,7 @@
 $(document).ready ->
  
-  $('#amount').on 'keyup', ->
+  $('invert_currency').submit  ->
+    
     if $('form').attr('action') == '/convert'
       $.ajax '/convert',
           type: 'GET'
