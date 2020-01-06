@@ -9,7 +9,8 @@
       <%= form_tag('/convert', method: :get, id: 'exchange_form') do %>
         <div class='local_currency'>
           <div class='form-group'>
-            <p class='title'>Moeda local</p>
+          <img src="invert.png" id="invert_currency" style= 'float:right;'/>  
+          <p class='title'>Moeda local</p>    
             <%= select_tag 'source_currency', options_for_select(currency_list, 'BRL'), class: 'form-control', id: 'source_currency' %>
           </div>
  
