@@ -1,26 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-testando meu commit!!
+OneBitExchange é um conversor de moedas feito no curso bootcamp fullstack da Onebitcode.
+Usando Ruby com o framework rails eu criei um conversor de moedas, aprendi como integrar uma API no meu sistema onde o valor das moedas estão sempre atualizados.
+fiz desafios de mudar o layout e tirar o botão para converter automaticamente quando inserir o valor.
+aprendi como fazer o deploy no heroku.
