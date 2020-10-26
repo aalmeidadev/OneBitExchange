@@ -1,8 +1,8 @@
 # Conversor de moedas
 
-### Principal Tecnologia usada
-# -Ruby
-# Framework -Rails
+## Principal Tecnologia usada
+### -Ruby on Rails
+
 
 --------------------------------------------------------------------------------------
 
